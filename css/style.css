@@ -9,3 +9,9 @@ body{
     color: #333333;
     text-align: center;
 }
+.container{
+    min-width: 400px;
+    max-width: 1200px;
+    background-color: gray;
+    margin: 0 auto;
+}
